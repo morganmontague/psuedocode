@@ -12,11 +12,9 @@ Writing my first psuedocode about making a hamburger
 
 ### hamburger patty
 - a simple hamburger patty prebought at a store.
-<br>
 
 ### buns
 - plain wheat buns, a type of bread bought at a store.
-<br>
 
 ### cooking methods
 - This can be done with a grill, either a stovetop grill or a gas/charcoal grill.
@@ -27,3 +25,27 @@ Writing my first psuedocode about making a hamburger
 - We will use a spatula for this example.
 <br>
 
+## Functions
+
+final prep check
+
+prepare buns/patty
+
+turn on gas grill
+
+place patty
+
+close lid and wait
+
+open lid and flip
+
+take patty off
+
+put on bottom bun
+
+place top bun
+
+eat
+
+
+## Running Functions
