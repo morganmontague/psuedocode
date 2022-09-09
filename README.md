@@ -7,10 +7,9 @@ Writing my first psuedocode about making a hamburger
 <br>
 - Note no ham is needed.
 <br>
-<br>
 
 ## Init - getting my *materials* or variables
-<br>
+
 ### hamburger patty
 <br>
 - a simple hamburger patty prebought at a store.
