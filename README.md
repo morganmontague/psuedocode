@@ -28,6 +28,7 @@ Writing my first psuedocode about making a hamburger
 ## Functions
 
 final prep check
+* check for a spatula, gas cannister, gas grill, hamburger patt
 
 prepare buns/patty
 
