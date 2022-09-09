@@ -27,17 +27,17 @@ Writing my first psuedocode about making a hamburger
 
 ## Functions
 
-final prep check
+prepCheck
 * check for a spatula, plates gas cannister, gas grill, hamburger patty and buns
 * if all there proceed
 * else go buy the required materials
 
-prepare buns
+prepareBuns
 1. Place the plate on an even surface, preferably a table if had but floor is okay as well.
 2. Place a pair of hamburger buns on plate, lift the top one off and flip it upside down and place it by the bottom half.
 3. Once completed move on.
 
-turn on gas grill
+grillOn
 1. Ensure gas cannister is secure and nosel is conncected to the gas grill.
 2. Turn the valve on top of the gas cannister towards the open direction shown on the valve.
 3. If no sign is on the valve turn the valve toward the left  (counter-clockwise).
@@ -45,18 +45,18 @@ turn on gas grill
 5. Open the grill top to ensure the flames are going and leave lid open.
 6. Allow a few minutes so the grill may heat up.
 
-place patty
+placePatty
 1. Place the patty on the grill using the spatuala.
 2. Position the patty towards the center to allow most even grilling.
 
-Grilling the burger
+grilling
 1. Grab the grill top's handle and close the grill top.
 2. Set a timer for 2 minutes.
 3. Once timer rings, grab the grill top handle to open the grill.
 4. Move the spatula to under the patty and flip it on the other side.
 5. Repeat steps 1-4 until the patty is grilled to your preference, if you like them well done then *gross*
 
-take patty off
+pattyOff
 1. Ensure plate with the buns is nearby.
 2. Using the spatula, move it under the grilled burger to pick up.
 3. Place spatula with burger on it onto bottom bun.
@@ -67,3 +67,13 @@ eat
 * Hamburger is complete, eat if you want.
 
 ## Running Functions
+
+Run the functions in this order
+1. prepCheck
+2. prepareBuns
+3. grillOn
+4. pattyPlace
+5. grilling
+6. pattyOff
+7. eat
+8. YAYYYY
