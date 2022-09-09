@@ -22,9 +22,8 @@ Writing my first psuedocode about making a hamburger
 - This can be done with a grill, either a stovetop grill or a gas/charcoal grill.
 - In this example we will use a gas grill.
 <br>
-
 ### other
--this section can contain other ingrediants like cheese or pickles, or utensils needed.
+- this section can contain other ingrediants like cheese or pickles, or utensils needed.
 - We will use a spatula for this example.
 <br>
 
