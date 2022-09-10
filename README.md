@@ -25,12 +25,16 @@ Writing my first psuedocode about making a hamburger, V2
 
 ### Gas Grill
 - In this example we will use a gas grill. We will call it grill.
-  - The grill has parts, which will be defined as gasTank, lid and ignition.
+  - The grill has parts, which will be defined as gasTank, lid and ignition. This will be defined grillParts [gasTank, lid, ignition]
   - There are various parts
 
 ### other
-- this section can contain other ingrediants like cheese or pickles, or utensils needed.
-- We will use a spatula and a plate for this example.
+- This will be where we add variables like the plate, and spatula (utensil used to flip the hamburgerPatty)
+- We will also add a constant table, which is only referenced as an area to place variables.
+
+### Array
+We will make an array, materials[hamburgerPatty, buns, ketchup, mustard, grill, grillParts, spatula, plate].
+
 <br>
 
 ## Functions
