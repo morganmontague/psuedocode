@@ -1,28 +1,40 @@
-# psuedocode
-Writing my first psuedocode about making a hamburger
+# Grilling a hamburger with a gas grill
+Writing my first psuedocode about making a hamburger, V2
 ## ABOUT
-- Hamburgers are grilled ground meat, put between two buns, additional toppings can be placed.
+- Hamburgers are grilled ground beef, put between two buns, additional toppings can be placed.
+- You can buy preshaped hamburgers or you can shape them with your hands, increasing or decreasing the size.
 <br>
-- In this first practice we will just do a regular hamburgers.
+- In this first practice we will just do a hamburger with ketchup and mustard, which consist of a preshaped hamburger and two buns and a little ketchup and mustard.
 <br>
 - Note no ham is needed.
 <br>
 
-## Init - getting my *materials* or variables
+## Init - getting my *ingredients materials* or variables
 
-### hamburger patty
-- a simple hamburger patty prebought at a store.
+### hamburger
+- A simple hamburger patty prebought at a store. Will be called hamburgerPatty.
+  -  This is what is being grilled and will be necessary for most of the *functions*.
 
 ### buns
-- plain wheat buns, a type of bread bought at a store.
+- plain wheat *buns*, a type of bread bought at a store. Buns are two halves, a top and bottom. Will be called buns.
+  - Some people will grill the buns lightly at the end, I hope to add an extra function for this later.
+ 
+### Condiments
+- These are additions added to food, to enhance a certain flavor. For this example we will have two called *ketchup* and *mustard*.
+  - We will be using packets for each, a packet consist of 9 grams of condiment.
 
-### cooking methods
-- This can be done with a grill, either a stovetop grill or a gas/charcoal grill.
-- In this example we will use a gas grill.
+### Gas Grill
+- In this example we will use a gas grill. We will call it grill.
+  - The grill has parts, which will be defined as gasTank, lid and ignition. This will be defined grillParts [gasTank, lid, ignition]
+  - There are various parts
 
 ### other
-- this section can contain other ingrediants like cheese or pickles, or utensils needed.
-- We will use a spatula and a plate for this example.
+- This will be where we add variables like the plate, and spatula (utensil used to flip the hamburgerPatty)
+- We will also add a constant table, which is only referenced as an area to place variables.
+
+### Array
+We will make an array, materials[hamburgerPatty, buns, ketchup, mustard, grill, grillParts, spatula, plate].
+
 <br>
 
 ## Functions
